@@ -38,7 +38,11 @@ end
 # Define your play method below
 
 def play(board)
+<<<<<<< HEAD
   for i in (0...9)
+=======
+  for i in (0..9)
+>>>>>>> 7443212ffa0cc783fc7cba34ba6ac6b7d1b9254f
     turn(board)
   end
 end
